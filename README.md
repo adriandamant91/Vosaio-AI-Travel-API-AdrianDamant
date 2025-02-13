@@ -1,3 +1,9 @@
+System Setup
+
+you will first need to add the ChatGPT key to the project, which cannot be included with the GitHub Commit for security reasons. The key needs to replace [Add API Key Here] found on line 7 of the Constants Class.
+the API Key will be emailed to you.
+
+
 Demo URL links
 
 [Service URL] /api/itinerary/generate?Destination=Durban&TravelDates=2025-02-12T20%3A45%3A24.832Z&TravelDates=2025-02-22T20%3A45%3A25.665Z&Budget=5000&Interests=golf&Interests=hiking&Interests=swimming&Interests=gym

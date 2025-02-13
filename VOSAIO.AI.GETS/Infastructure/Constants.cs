@@ -4,7 +4,7 @@ namespace VOSAIO.AI.GETS.Infastructure
 {
     public class Constants
     {
-        public static string OpenAiApiKey = "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";
+        public static string OpenAiApiKey = "[Add API Key Here]";
 
         public static Dictionary<DataRequestType, string> DataRequestPrompts = new()
         {
