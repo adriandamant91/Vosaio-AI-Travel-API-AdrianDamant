@@ -4,7 +4,7 @@ namespace VOSAIO.AI.GETS.Infastructure
 {
     public class Constants
     {
-        public static string OpenAiApiKey = "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";
+        public static string OpenAiApiKey = "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";
 
         public static Dictionary<DataRequestType, string> DataRequestPrompts = new()
         {
